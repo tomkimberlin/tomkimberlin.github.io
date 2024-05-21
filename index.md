@@ -1,11 +1,9 @@
 ---
 layout: default
-title: Tom Kimberlin
-description: I make websites, build computers, and fly drones.
 ---
 
-# {{ page.title }}
+# Tom Kimberlin
 
-{{ page.description }}
+I make websites, build computers, and fly drones.
 
 <tomkimberlin@gmail.com>
