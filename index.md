@@ -3,4 +3,6 @@ layout: default
 title: Home
 ---
 
-# hello world
+# Tom Kimberlin
+
+I make websites, build computers, and fly drones.
