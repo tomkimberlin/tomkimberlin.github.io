@@ -270,6 +270,7 @@ PLATFORMS
 DEPENDENCIES
   github-pages
   jekyll
+  jekyll-theme-minimal
   wdm (>= 0.1.0)
   webrick
 
