@@ -4,4 +4,21 @@ html {
   margin: auto;
   line-height: 1.75;
   font: 1.25em system-ui;
+  background-color: white;
+  color: black;
+}
+
+a {
+  color: #007bff;
+}
+
+@media (prefers-color-scheme: dark) {
+  html {
+    background-color: #121212;
+    color: #e0e0e0;
+  }
+
+  a {
+    color: #1e90ff;
+  }
 }
