@@ -24,7 +24,7 @@ I make websites, build computers, and fly drones.
 
 #### US State IQ and Well-Being Rankings
 
-[Website](us-state-iq-and-well-being-rankings.netlify.app)
+[Website](https://us-state-iq-and-well-being-rankings.netlify.app)
 
 [Code](https://github.com/tomkimberlin/US-State-IQ-and-Well-Being-Rankings)
 
