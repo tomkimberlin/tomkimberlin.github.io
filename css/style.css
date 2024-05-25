@@ -8,6 +8,11 @@ html {
   color: black;
 }
 
+img {
+  max-width: 100%;
+  height: auto;
+}
+
 a {
   color: #007bff;
 }
