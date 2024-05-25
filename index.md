@@ -42,11 +42,11 @@ I make websites, build computers, and fly drones.
 
 #### Dirty Underground eBay Store
 
-![Dirty Underground eBay Store](images/dirty-underground.jpg)
+![Dirty Underground eBay Store](images/dirty-underground.webp)
 
 #### Ohio Prestressers Association
 
-![Ohio Prestressers Association](images/opa.png)
+![Ohio Prestressers Association](images/opa.webp)
 
 ### Aerial Photography
 
@@ -56,24 +56,24 @@ I make websites, build computers, and fly drones.
 
 #### CUY-71 Bridge
 
-![CUY-71 Bridge](images/cuy-71-bridge.jpg)
+![CUY-71 Bridge](images/cuy-71-bridge.webp)
 
 #### CUY-82 Bridge
 
-![CUY-82 Bridge](images/cuy-82-bridge.jpg)
+![CUY-82 Bridge](images/cuy-82-bridge.webp)
 
 #### Miller Road Interchange Bridge
 
-![Miller Road Interchange Bridge](images/miller-road-interchange-bridge.jpg)
+![Miller Road Interchange Bridge](images/miller-road-interchange-bridge.webp)
 
 #### Perdido Bayou
 
-![Perido Bayou](images/perdido-bayou.jpg)
+![Perido Bayou](images/perdido-bayou.webp)
 
 #### Snow Road Bridge
 
-![Snow Road Bridge](images/snow-road-bridge.jpg)
+![Snow Road Bridge](images/snow-road-bridge.webp)
 
 #### Whitney Road Bridge
 
-![Whitney Road Bridge](images/whitney-road-bridge.jpg)
+![Whitney Road Bridge](images/whitney-road-bridge.webp)
