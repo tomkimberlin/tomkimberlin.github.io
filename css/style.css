@@ -4,8 +4,8 @@ html {
   margin: auto;
   line-height: 1.75;
   font: 1.25em system-ui;
-  background-color: #fff;
-  color: #000;
+  background-color: rgb(235, 235, 240);
+  color: rgb(36, 36, 38);
 }
 
 img {
@@ -27,8 +27,8 @@ a:active {
 
 @media (prefers-color-scheme: dark) {
   html {
-    background-color: #000;
-    color: #f5f5f7;
+    background-color: rgb(36, 36, 38);
+    color: rgb(235, 235, 240);
   }
 
   a {
