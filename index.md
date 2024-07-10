@@ -8,8 +8,6 @@ I make websites, build computers, and fly drones.
 
 <tomkimberlin@gmail.com>
 
----
-
 ## Past Work
 
 ### Web Development
@@ -40,8 +38,6 @@ I make websites, build computers, and fly drones.
 
 [Code](https://github.com/tomkimberlin/Flappy)
 
----
-
 ### Graphic Design
 
 #### Dirty Underground eBay Store
@@ -51,8 +47,6 @@ I make websites, build computers, and fly drones.
 #### Ohio Prestressers Association
 
 ![Ohio Prestressers Association](images/opa.webp)
-
----
 
 ### Aerial Photography
 
